@@ -6,5 +6,5 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, C#, C</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@K_Illya](https://telegram.me/your-nikname)</code>
+<code>💬 telegram: [@K_Illya](https://t.me/K_Illya)</code>
 <code>📫 [kroshka.illya@lll.kpi.ua](mailto:your-email)</code>
